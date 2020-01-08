@@ -4,9 +4,9 @@ This board was intend to insall on MyCar. So, this board has following features.
 
 # FEATURES
  * Hi-Efficency Wide-Range Voltage Low-Noise Power Supply
- * Delay featured Power ON/OFF control
+ * Delay featured Power ON/OFF control circuit
   * Automatic ACC contrlled Bootup / Shout-Down features
-  * Reboot/ShutDwon Button
+  * Reboot/ShutDown Button
   * USB-UART bridge for PC connected debugging
   * SPI-Extension header for 3.5" LCD TouchScreen Monitor
   * A UART I/F header for GPS Module
