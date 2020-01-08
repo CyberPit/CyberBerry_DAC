@@ -1,5 +1,6 @@
 # CyberBerry_DAC
-A HiFi-Berry DAC + pro for Raspberry-Pi Compatible DAC Board for Automobile Application[[BR]]
+A HiFi-Berry DAC + pro for Raspberry-Pi Compatible DAC Board for Automobile Application
+
 This board was intend to insall on MyCar. So, this board has following features...
 
 '''FEATURES'''
