@@ -11,7 +11,7 @@ This board was intend to insall on MyCar. So, this board has following features.
   * SPI-Extension header for 3.5" LCD TouchScreen Monitor
   * IR Remote Reciever/Transmitter for Another equipment control
   
-# This Project is Under Construction
+# === This Project is Under Construction ===
   
   You can see the current information at following URL...
   https://cyberpithilo.web.fc2.com/audio/cyberberry/index.html
