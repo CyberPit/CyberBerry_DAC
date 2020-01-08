@@ -9,6 +9,7 @@ This board was intend to insall on MyCar. So, this board has following features.
   * Reboot/ShutDwon Button
   * USB-UART bridge for PC connected debugging
   * SPI-Extension header for 3.5" LCD TouchScreen Monitor
+  * A UART I/F header for GPS Module
   * IR Remote Reciever/Transmitter for Another equipment control
   
 # === This Project is Under Construction ===
