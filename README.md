@@ -2,7 +2,7 @@
 A HiFi-Berry DAC + pro for Raspberry-Pi Compatible DAC Board for Automobile Application
 This board was intend to insall on MyCar. So, this board has following features...
 
-* FEATURES
+'''FEATURES'''
  * Hi-Efficency Wide-Range Voltage Low-Noise Power Supply
  * Delay featured Power ON/OFF control
   * Automatic ACC contrlled Bootup / Shout-Down features
